@@ -5,3 +5,5 @@ public class CurrencyConverter {
         return sourceCurrencyType.convert(targetCurrencyType) * amountOfBaseCurrency;
     }
 }
+
+// converts the exchange rate between any 2 currencies
